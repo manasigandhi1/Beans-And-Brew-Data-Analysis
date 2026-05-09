@@ -120,3 +120,9 @@ This analysis helps the business:
 - Make data-driven decisions on product strategy
 - Understand performance decline and prevent future losses
 - Improve overall profitability through better product mix
+
+## Author
+
+## 👨‍💻 Author
+
+**Manasi Gandhi**[manasigandhiportfolio.lovable.app](https://manasigandhiportfolio.lovable.app/)
