@@ -121,8 +121,11 @@ This analysis helps the business:
 - Understand performance decline and prevent future losses
 - Improve overall profitability through better product mix
 
-## Author
-
 ## 👨‍💻 Author
 
-**Manasi Gandhi**[manasigandhiportfolio.lovable.app](https://manasigandhiportfolio.lovable.app/)
+
+---
+
+[Manasi Gandhi](https://manasigandhiportfolio.lovable.app/)
+
+Power BI | SQL | Data Analytics | Dashboard Development
